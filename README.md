@@ -1,4 +1,4 @@
-[![jimlohse](https://circleci.com/gh/jimlohse/project-ml-microservice-kubernetes.svg?style=svg)](<LINK>)
+[![jimlohse](https://circleci.com/gh/jimlohse/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/jimlohse/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
